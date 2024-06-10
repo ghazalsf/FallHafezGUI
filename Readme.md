@@ -8,6 +8,6 @@ This program fetches a "Faal Hafez" (Hafez's fortune-telling) for you. Simply ru
 
 ## How to Use
 
-1. **Run the Program**: Execute the `FaalGUI` program.
+1. **Run the Program**: Execute the `main` file.
 2. **Make a Wish**: Before fetching your fortune, make a wish or think about the question you have.
 3. **Receive Your Fortune**: The program will fetch and display a verse from Hafez's poetry that serves as your fortune.
